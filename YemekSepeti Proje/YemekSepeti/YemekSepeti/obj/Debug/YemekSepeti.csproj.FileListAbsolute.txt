@@ -1,0 +1,52 @@
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form1.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.Cache
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form2.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form3.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form4.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form5.resources
+E:\10.Sınıf Bilisim\NTP\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form6.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csprojResolveAssemblyReference.cache
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form1.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form2.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form3.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form4.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form5.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form6.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.Cache
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form7.resources
+E:\10.Sınıf Bilisim\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form8.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form3.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form4.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form5.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form6.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form7.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form8.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form9.resources
+E:\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+E:\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+E:\Yemek_Sepeti-main\Yemek_Sepeti-main\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\Öğrenci\Documents\YemekSepeti Proje\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\Öğrenci\Documents\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\Öğrenci\Documents\YemekSepeti Proje\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
